@@ -19,7 +19,7 @@ const exp = [{
     },
     {
         title: "Build an IoT Applications with 32-Bit Microcontroller",
-        cardImage: "assets/images/experience-page/cutm.jpg",
+        cardImage: "assets/images/experience-page/CUTM.jpg",
         place: "CUTM, BBSR",
         time: "(March, 2023)",
         desp: "<li>Participated in Centurion University's workshop on building IoT applications using 32-bit microcontrollers, gaining hands-on experience in IoT system design and development.</li><li>Developed a prototype IoT application during the workshop, integrating cloud connectivity for data monitoring and remote control.</li><li>Learned to program and interface 32-bit microcontrollers with various sensors and actuators for real-time IoT applications.</li>",
