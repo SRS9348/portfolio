@@ -9,7 +9,8 @@ document.body.appendChild(script);
 
 let header = $(`
 <nav class="navbar navbar-expand-lg fixed-top dark-theme" id="navbar">
-<a class="navbar-brand" href="https://srs9348.github.io/portfolio/">Soumya Ranjan Sahu </a>
+// <a class="navbar-brand" href="https://srs9348.github.io/portfolio/">Soumya Ranjan Sahu </a>
+<a class="navbar-brand" href="index.html">Soumya Ranjan Sahu </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
@@ -22,7 +23,8 @@ let header = $(`
 
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://srs9348.github.io/portfolio/">Home</a></li>
+   // <li class="nav-item nav-item-hover"><a class="nav-link" href="https://srs9348.github.io/portfolio/">Home</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="experience.html">Experience</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    
